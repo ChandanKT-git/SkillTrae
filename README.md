@@ -1,4 +1,4 @@
-# SkillSwap - A Peer-to-Peer Learning Hub  
+# SkillSwap - A Peer-to-Peer Learning Hub
 
 SkillSwap is a platform that connects learners and mentors for real-time and scheduled skill-sharing sessions. The app focuses on mutual learning, session bookings, and collaborative features with secure authentication and clean UI.
 
